@@ -1,5 +1,7 @@
 # Primeiro desafio Ok
 # https://franciscofoz.medium.com/5-desafios-com-strings-para-iniciantes-em-python-81e3a5ba9cbe
+# O desafio consiste em ordenar uma lista de títulos de livros em ordem alfabética
+# e deixá-los separados por vírgula.
 
 
 titulos = """O Senhor dos Anéis
