@@ -1,2 +1,2 @@
 # PythonStudy
-Uma coleção de scripts que tem como finalidade tornar-se um guia.
+Uma coleção de scripts para estudar.
